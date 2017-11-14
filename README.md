@@ -11,6 +11,6 @@ brew install ghostscript
 
 To use, just run
 ``` bash
-./perform_song.sh <path/to/file.pdf>
+./sing.sh <path/to/file.pdf>
 ```
 
