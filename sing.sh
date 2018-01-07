@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 # hope and pray the input is a pdf filepath
 pdf="$1"
 
